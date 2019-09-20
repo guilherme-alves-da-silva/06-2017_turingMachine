@@ -8,3 +8,4 @@ The teacher asked for comments in the code.
 
 homework
 
+**wrong design choices for the classes
